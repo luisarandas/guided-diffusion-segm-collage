@@ -2,7 +2,7 @@
 
 ### guided-diffusion segmentation collage
 
-Automatic segmentation and compositing of sets of videos. Utilises dichotomous image segmentation to remove humans from film shoots and frames a collage in three ways: green screen, human removal and diffused masking. Works with implemented methods of image diffusion with conditional guidance. Easily computes 1.5 frames per second on 4k videos with 3090 rtx gpus.
+Automatic segmentation and compositing of sets of videos. Utilises dichotomous image segmentation to remove humans from film shoots and frames a collage in three ways: green screen, human removal and diffused masking. Works with implemented methods of image diffusion with conditional guidance. Easily computes 1.5 frames per second on 4k videos with 3090 rtx gpus. Outputs demonstrate randomised colors not to include diffusion networks in this repository, build with the same path. 
 
 ```
 (download libraries)
