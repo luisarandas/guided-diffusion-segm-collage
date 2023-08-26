@@ -4,8 +4,6 @@
 
 Automatic segmentation and compositing of sets of videos. Utilises dichotomous image segmentation to remove humans from film shoots and frames a collage in three ways: green screen, human removal and diffused masking. Works with implemented methods of image diffusion with conditional guidance. Easily computes 1.5 frames per second on 4k videos with 3090 rtx gpus.
 
-# download isnet to libs
-
 ```
 (download libraries)
 ! sudo chmod +x download_estimator.sh && ./download_estimator.sh
@@ -19,6 +17,16 @@ Automatic segmentation and compositing of sets of videos. Utilises dichotomous i
 ! python3 man_3.py --estimated_folder ./path/to/dataset --fps 25 --composite_type mask_pil_with_frame
 ! python3 man_3.py --estimated_folder ./path/to/dataset --fps 25 --composite_type diffused_masking --second_dataset ./path/to/second/dataset
 ```
+
+<div style="float: left; width: 50%;">
+    https://github.com/luisarandas/guided-diffusion-segm-collage/assets/30077568/a7ee4af4-e98a-4e03-a63c-41aced54ea14
+    <iframe width="100%" src="video1_link_here"></iframe>
+</div>
+<div style="float: left; width: 50%;">
+    https://github.com/luisarandas/guided-diffusion-segm-collage/assets/30077568/d4f136bb-faeb-4259-a362-5adb139f1855
+    <iframe width="100%" src="video2_link_here"></iframe>
+</div>
+
 
 
 
