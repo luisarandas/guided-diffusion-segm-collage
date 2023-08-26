@@ -18,13 +18,6 @@ Automatic segmentation and compositing of sets of videos. Utilises dichotomous i
 ! python3 man_3.py --estimated_folder ./path/to/dataset --fps 25 --composite_type diffused_masking --second_dataset ./path/to/second/dataset
 ```
 
-https://github.com/luisarandas/guided-diffusion-segm-collage/assets/30077568/a7ee4af4-e98a-4e03-a63c-41aced54ea14
-  
-https://github.com/luisarandas/guided-diffusion-segm-collage/assets/30077568/d4f136bb-faeb-4259-a362-5adb139f1855
-
-
-
-
 ```
 @article{interla23,
   title={Man lost in the convergence of time, Avebury (2022): Reconfiguring film through human figure removal and collage},
