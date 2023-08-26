@@ -20,11 +20,6 @@ Automatic segmentation and compositing of sets of videos. Utilises dichotomous i
 
 ![output_image](https://github.com/luisarandas/guided-diffusion-segm-collage/assets/30077568/01d4b29b-9131-47c4-9f7f-5926a6f4e074)
 
-https://github.com/luisarandas/guided-diffusion-segm-collage/assets/30077568/d1f61249-d665-4542-992d-b47b755f88fc
-
-
-
-
 ```
 @article{interla23,
   title={Man lost in the convergence of time, Avebury (2022): Reconfiguring film through human figure removal and collage},
