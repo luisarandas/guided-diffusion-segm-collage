@@ -10,9 +10,6 @@
     tests with (man-env.yml), utilises IS-Net library
 """
 
-# ! python3 43/man_3.py --estimated_folder /home/luisarandas/Desktop/phdcodes/test_data/video_data_2/remove1 --fps 25 --composite_type green_background
-# ! python3 43/man_3.py --estimated_folder /home/luisarandas/Desktop/phdcodes/test_data/video_data_2/remove1 --fps 25 --composite_type mask_pil_with_frame
-
 import argparse
 import random
 from PIL import Image
